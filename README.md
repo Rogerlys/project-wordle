@@ -45,7 +45,7 @@ Here's a minimal representation of the markup expected to be produced by this ne
 
 Here's a quick screen recording of the expected result:
 
-![Screen recording showing the guess being entered. It gets logged to the console, and erased from the input](docs/submit-guess.gif)
+<!-- ![Screen recording showing the guess being entered. It gets logged to the console, and erased from the input](docs/submit-guess.gif) -->
 
 **Acceptance Criteria:**
 
